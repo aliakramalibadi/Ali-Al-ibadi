@@ -18,7 +18,7 @@ Electronics: Circuit and PCB design.
 
 Projects:
 
-1-AI Smart Vehicle: Object detection, distance estimation, lane assistance, and STM32-based motor control.
+1-LogiDrive Smart Vehicle: Object detection, distance estimation, lane assistance, and STM32-based motor control.
 
 Raspberry Pi Vision System: Real-time camera processing with PiCamera/OpenCV.
 
