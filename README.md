@@ -3,6 +3,7 @@ Hi, I'm Ali Akram
 I'm a Communication & Electronics Engineer with hands-on experience in robotics, embedded systems, computer vision, and AI.
 I love building real projects, and solving problems using hardware + software together.
 I enjoy learning by building, and I'm always working on new projects to improve my skills.
+
 Technical Skills:
 
 Programming: Python, familiar with C and C++.
@@ -11,7 +12,7 @@ Computer Vision & AI: OpenCV, MobileNet, object detection, distance estimation
 Tools & Frameworks: Linux, Git/GitHub, PyTorch (beginner), Flet.
 Electronics: Circuit and PCB design.
 
-Projects
+Projects:
 
 1-AI Smart Vehicle: Object detection, distance estimation, lane assistance, and STM32-based motor control.
 Raspberry Pi Vision System: Real-time camera processing with PiCamera/OpenCV.
